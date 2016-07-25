@@ -13,3 +13,9 @@ class Program
         }
     }
 }
+
+/*
+ * Exercise:
+ * Create a version that switches based on a string type variable,
+ * rather than the boolean variable used in the code sample.
+ */
