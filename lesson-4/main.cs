@@ -11,7 +11,7 @@ class Program
             "Tits"
         };
 
-        for (i =0; i < words.length; i++) {
+        for (i = 0; i < words.length; i++) {
             Console.WriteLine( words[i] );
         }
     }
